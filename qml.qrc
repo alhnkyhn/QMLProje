@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Screens/LoginScreen.qml</file>
+        <file>Helpers/md5.js</file>
+        <file>Screens/Dashboard.qml</file>
+        <file alias="Widgets/Sidebar.qml">Widgets/Sidebar.qml</file>
+        <file alias="Helpers/CircleIndicator.qml">Helpers/CircleIndicator.qml</file>
+        <file alias="Helpers/MaterialMessageBox.qml">Helpers/MaterialMessageBox.qml</file>
+        <file>Helpers/RadialBarShape.qml</file>
+        <file>Widgets/RAMUsage.qml</file>
+        <file>Widgets/CPUUsage.qml</file>
+        <file>Widgets/TemperatureChart.qml</file>
+        <file>Widgets/AltitudeChart.qml</file>
+        <file>Screens/EnvironmentInformation.qml</file>
+        <file>Widgets/ThermometerQChart.qml</file>
+        <file>Screens/ErrorStatement.qml</file>
+        <file>Screens/SystemInformation.qml</file>
+        <file>Widgets/SystemGrid.qml</file>
+    </qresource>
+    <qresource prefix="/Assets">
+        <file>Images/bx_bxs-key.png</file>
+        <file>Images/bx_bxs-key2.png</file>
+        <file>Images/CamIcon.png</file>
+        <file>Images/CamIconDeactive.png</file>
+        <file>Images/dontShowPass.png</file>
+        <file>Images/envelope.png</file>
+        <file>Images/HeatIcon.png</file>
+        <file>Images/HeatIconDeactive.png</file>
+        <file>Images/InfraredIcon.png</file>
+        <file>Images/InfraredIcon.svg</file>
+        <file>Images/InfraredIcon2.svg</file>
+        <file>Images/InfraredIconDeactive.png</file>
+        <file>Images/key.png</file>
+        <file>Images/MinusIcon.png</file>
+        <file>Images/PlusIcon.png</file>
+        <file>Images/showPass.png</file>
+        <file>Images/sidebar.png</file>
+        <file>Images/swipe-left-icon.png</file>
+        <file>Images/swipe-right-icon.png</file>
+        <file>Images/TeiGraphicView.png</file>
+        <file>Images/Vector.png</file>
+        <file>Images/Vector2.png</file>
+        <file>Images/SidebarIcons/EnvInfoIcon.png</file>
+        <file>Images/SidebarIcons/EnvInfoIconActive.png</file>
+        <file>Images/SidebarIcons/ErrorFormIcon.png</file>
+        <file>Images/SidebarIcons/ErrorFormIconActive.png</file>
+        <file>Images/SidebarIcons/HomeIcon.png</file>
+        <file>Images/SidebarIcons/HomeIconActive.png</file>
+        <file>Images/SidebarIcons/LogoutIcon.png</file>
+        <file>Images/SidebarIcons/LogoutIconActive.png</file>
+        <file>Images/SidebarIcons/SystemInfoIcon.png</file>
+        <file>Images/SidebarIcons/SystemInfoIconActive.png</file>
+    </qresource>
+</RCC>
